@@ -1,0 +1,14 @@
+{
+  "name": "learn_npm",
+  "version": "1.0.0",
+  "description": "this is a learning from free codecamp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nirjhor",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
